@@ -58,7 +58,7 @@ AVG(): Calcula a média.
 GROUP BY: Agrupa os resultados (ex: total de vendas por cidade).
 
 ## Fontes usadas:
-
+### Vídeos
 <p>
   <a href="https://www.youtube.com/watch?v=dpanYy8IrcU " target="_blank">
     <img src="https://img.shields.io/badge/▶️%20Assistir%20Vídeo-28a745?style=for-the-badge" alt="Assistir vídeo">
@@ -77,9 +77,21 @@ GROUP BY: Agrupa os resultados (ex: total de vendas por cidade).
   </a>
 </p>
 
+### Artigos/Textos
 
-https://www.devmedia.com.br/guia/guia-completo-de-sql/38314 
-https://cdn.bookey.app/files/pdf/book/pt/introdu%C3%A7ao-a-linguagem-sql.pdf 
+<p>
+  <a href=" https://www.devmedia.com.br/guia/guia-completo-de-sql/38314 " target="_blank">
+    <img src="https://img.shields.io/badge/▶️%20Assistir%20Vídeo-28a745?style=for-the-badge" alt="Ler">
+  </a>
+</p>
+
+<p>
+  <a href=" https://cdn.bookey.app/files/pdf/book/pt/introdu%C3%A7ao-a-linguagem-sql.pdf " target="_blank">
+    <img src="https://img.shields.io/badge/▶️%20Assistir%20Vídeo-28a745?style=for-the-badge" alt="Ler">
+  </a>
+</p>
+
+
 
 
 Esse repositório é um projeto para o Bootcamp Accenture - Python para Ánalise e Automação de Dados.
