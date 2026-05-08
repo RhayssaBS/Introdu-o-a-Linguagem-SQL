@@ -58,9 +58,26 @@ AVG(): Calcula a média.
 GROUP BY: Agrupa os resultados (ex: total de vendas por cidade).
 
 ## Fontes usadas:
-https://www.youtube.com/watch?v=dpanYy8IrcU 
-https://www.youtube.com/watch?v=KJ3LqI_X-Qo 
-https://www.youtube.com/watch?v=BgUxpPKw2LI 
+
+<p>
+  <a href="https://www.youtube.com/watch?v=dpanYy8IrcU " target="_blank">
+    <img src="https://img.shields.io/badge/▶️%20Assistir%20Vídeo-28a745?style=for-the-badge" alt="Assistir vídeo">
+  </a>
+</p>
+
+<p>
+  <a href="https://www.youtube.com/watch?v=KJ3LqI_X-Qo " target="_blank">
+    <img src="https://img.shields.io/badge/▶️%20Assistir%20Vídeo-28a745?style=for-the-badge" alt="Assistir vídeo">
+  </a>
+</p>
+
+<p>
+  <a href=" https://www.youtube.com/watch?v=BgUxpPKw2LI " target="_blank">
+    <img src="https://img.shields.io/badge/▶️%20Assistir%20Vídeo-28a745?style=for-the-badge" alt="Assistir vídeo">
+  </a>
+</p>
+
+
 https://www.devmedia.com.br/guia/guia-completo-de-sql/38314 
 https://cdn.bookey.app/files/pdf/book/pt/introdu%C3%A7ao-a-linguagem-sql.pdf 
 
