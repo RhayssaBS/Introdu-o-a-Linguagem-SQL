@@ -81,13 +81,13 @@ GROUP BY: Agrupa os resultados (ex: total de vendas por cidade).
 
 <p>
   <a href=" https://www.devmedia.com.br/guia/guia-completo-de-sql/38314 " target="_blank">
-    <img src="https://img.shields.io/badge/▶️%20Assistir%20Vídeo-28a745?style=for-the-badge" alt="Ler">
+    <img src="https://aditivosingredientes.com/newsletter/newsletter155/leia-mais.jpg" alt="Ler">
   </a>
 </p>
 
 <p>
-  <a href=" https://cdn.bookey.app/files/pdf/book/pt/introdu%C3%A7ao-a-linguagem-sql.pdf " target="_blank">
-    <img src="https://img.shields.io/badge/▶️%20Assistir%20Vídeo-28a745?style=for-the-badge" alt="Ler">
+  <a href=" https://aditivosingredientes.com/newsletter/newsletter155/leia-mais.jpg" target="_blank">
+    <img src="" alt="Ler">
   </a>
 </p>
 
