@@ -81,7 +81,7 @@ GROUP BY: Agrupa os resultados (ex: total de vendas por cidade).
 
 <p>
   <a href=" https://www.devmedia.com.br/guia/guia-completo-de-sql/38314 " target="_blank">
-    <img src="https://aditivosingredientes.com/newsletter/newsletter155/leia-mais.jpg" alt="Ler">
+    <img src="https://img.shields.io/badge/📖%20Ler%20Mais-28a745?style=for-the-badge" alt="Ler">
   </a>
 </p>
 
