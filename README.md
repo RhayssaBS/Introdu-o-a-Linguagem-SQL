@@ -1,9 +1,16 @@
 # INTRODUÇÃO A LINGUAGEM SQL 📊
 
+## Contexto e Objetivos
 Nesse repositório você encontrará um NotebookLM para ajudá-lo a iniciar seus estudos na linguagem mais importante para quem quer seguir na área de dados, ou simplesmente, para quem quer aprender sobre ela. Com o  objetivo principal de facilitar o aprendizado nessa área, escolhi diversas fontes para formar os conhecimentos do modelo do NotebookLM.
 
 ## Mini Guia de Estudo 📖
 ### Resumo Estruturado
+Glossário:
+- Conceitos de Banco de Dados
+- Comandos Básicos em SQL
+- Primeiros Passos Práticos
+- Algumas Funções
+
 1. O que é um Banco de Dados?
 Antes de entender a linguagem, entenda onde ela atua. Um banco de dados é uma coleção estruturada de dados.
 A analogia do armário: Pense no banco de dados como um grande armário de escritório. Dentro dele, temos pastas (que são as Tabelas) e, dentro das pastas, temos as folhas de papel (que são os Registros ou linhas).
@@ -57,7 +64,7 @@ SUM(): Soma valores.
 AVG(): Calcula a média.
 GROUP BY: Agrupa os resultados (ex: total de vendas por cidade).
 
-## Fontes usadas:
+## Curadoria de Fontes:
 ### Vídeos
 <p>
   <a href="https://www.youtube.com/watch?v=dpanYy8IrcU " target="_blank">
@@ -91,7 +98,12 @@ GROUP BY: Agrupa os resultados (ex: total de vendas por cidade).
   </a>
 </p>
 
-
-
+## Engenharia de Prompts e "Cicatrizes"
+Para melhorar meus estudos, pedi algumas coisas relacionadas ao que necessitava para que aprendesse da melhor maneira possível. A seguir estão os comandos: 
+1. "Eu gostaria de um resumo estruturado sobre o assunto. Me ensine como um professor de programação. Lembre-se que é para iniciantes."
+Esse prompt me ajudou a formular o miniguia de estudo que é encontrado no início desse README. A dificuldade que obtive aconteceu devido ao tamanho do resumo. Precisei pedir um resumo mais detalhado e rico em informações necessárias para um bom material de estudo.
+2. "Faça um resumo mais detalhado sobre a introdução ao SQL"
+3. "Por onde devo começar para aprender essa linguagem levando em consideração que já tenho conhecimento em lógica de programação?". Aqui não houve problema na resposta.
+   
 
 Esse repositório é um projeto para o Bootcamp Accenture - Python para Ánalise e Automação de Dados.
